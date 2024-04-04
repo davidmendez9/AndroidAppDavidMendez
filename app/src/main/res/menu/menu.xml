@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/frag1" android:icon="@drawable/baseline_accessibility_new_24" android:title="Tutores"></item>
+    <item android:id="@+id/frag2" android:icon="@drawable/baseline_add_home_24" android:title="Inicio"></item>
+    <item android:id="@+id/frag3" android:icon="@drawable/baseline_cell_tower_24" android:title="Web"></item>
+</menu>

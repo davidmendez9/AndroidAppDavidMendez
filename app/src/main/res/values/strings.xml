@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenT8DavidMendez</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtDerecha">El nombre del instituto proviene de un árbol que crece en la zona. El Majuelo es un árbol de la familia de las rosáceas que mide como máximo 5 metros. En primavera este árbol se cubre de flores blancas reunidas en corimbos terminales.</string>
+    <string name="txtIzquierda">Bienvenid@ a la Web oficial del Instituto de Educación Secundaria "El Majuelo". En esta Web podrás consultar detalles referentes a la vida en el Centro y su oferta educativa, así como encontrar enlaces e información de interés para alumn@s y docentes.</string>
+
+
+</resources>
